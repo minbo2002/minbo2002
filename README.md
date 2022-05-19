@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<a href="https://velog.io/@minbo2002" target="_blank"><img src="https://img.shields.io/badge/velog?style=plastic&logo=#20C997&logoColor=000000"/></a>
+
 <!--
 **minbo2002/minbo2002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
