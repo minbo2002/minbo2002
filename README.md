@@ -5,8 +5,9 @@
 ### 김민보 Kim MinBo <br>
 email : minbo2002@gmail.com <br><br>
 
-### Doing 🎞
+### Doing 🏃‍
 - 스터디 - [자바 챌린지](https://github.com/minbo2002/Java-Challenge-Study)
+- 스터디 - [스프링 챌린지](https://github.com/minbo2002/spring-project-challenge-study)
 - 스터디 - [사이드 프로젝트 챌린지](https://github.com/minbo2002/side-project-challenge-study)
 - 스터디 - [리액트 챌린지](https://github.com/minbo2002/React-Challenge-Study/tree/main) <br><br>
 
